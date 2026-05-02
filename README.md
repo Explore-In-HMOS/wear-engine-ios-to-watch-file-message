@@ -1,5 +1,3 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
-
 # [Mobile(iOS) to Watch] Wear Engine - Messaging & Receiver Sample
 
 iOS P2P Communication Demo using Huawei Wear Engine SDK secure peer-to-peer communication between an iOS app and Huawei wearables.  
